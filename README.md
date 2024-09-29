@@ -101,5 +101,10 @@ These dependencies are listed in the `requirements.txt` file and can be installe
 
 
 ## Screen Shots:
-![1](https://github.com/user-attachments/assets/9c3a5779-769f-4367-9ea9-e501a25b89b8)
-![2](https://github.com/user-attachments/assets/e83695e4-1ba8-48e9-b820-add607abdbf3)
+![1](https://github.com/user-attachments/assets/9c3a5779-769f-4367-9ea9-e501a25b89b8)![2](https://github.com/user-attachments/assets/e83695e4-1ba8-48e9-b820-add607abdbf3)
+
+![3](https://github.com/user-attachments/assets/b0116d65-6193-44dd-a3ba-c639638d80d2)![4](https://github.com/user-attachments/assets/12b6a0bd-8f8b-435a-9e79-c2f7272eb0ef)
+
+![5](https://github.com/user-attachments/assets/2ad5ccd3-a0d7-44cb-988a-21432d3bb41f)
+
+
