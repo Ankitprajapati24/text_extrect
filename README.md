@@ -70,8 +70,10 @@ streamlit run app.py
 5. **Open the Application:** Once the application starts, Streamlit will automatically open your default web browser. If not, you can manually visit http://localhost:8501.
    
 ## File Structure
-**app.py:** The main application file that handles the Streamlit interface and coordinates image uploads, OCR processing, and keyword extraction.
-**ocr.py:** Contains the logic for processing images using `pytesseract` and extracting keywords from the extracted text.
+
+`**app.py:**`  The main application file that handles the Streamlit interface and coordinates image uploads, OCR processing, and keyword extraction.
+
+`**ocr.py:**`  Contains the logic for processing images using `pytesseract` and extracting keywords from the extracted text.
 **requirements.txt:** Lists all the Python dependencies needed to run the application.
 
 ## Upload an Image: On the application page, you will see an option to upload an image file. Click the "Browse" button and select an image that contains text.
