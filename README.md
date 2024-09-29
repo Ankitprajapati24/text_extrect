@@ -47,3 +47,5 @@ Follow the steps below to set up the project locally:
    ```bash
    git clone <repo-link>
    cd Text_Extracted-main
+2. **Set Up a Virtual Environment (Optional but recommended)**: Create and activate a virtual environment to manage project dependencies.
+3. 
