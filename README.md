@@ -46,7 +46,7 @@ Before running the application, ensure that you have the following installed:
    Open your terminal or command prompt and run:
 
    ```bash
-   git clone <repo-link>
+   git clone : [link](https://github.com/Goutam16-Withcode/Text_Extracted.git)
    cd Text_Extracted-main
    ```
 2. **Set Up a Virtual Environment (Optional but recommended)**: Create and activate a virtual environment to manage project dependencies.
