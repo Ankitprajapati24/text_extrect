@@ -45,22 +45,25 @@ Before running the application, ensure that you have the following installed:
 1. **Clone the Repository**:
    Open your terminal or command prompt and run:
 
-   ```bash
-   git clone : [link](https://github.com/Goutam16-Withcode/Text_Extracted.git)
+```bash
+   git clone https://github.com/Goutam16-Withcode/Text_Extracted.git
    cd Text_Extracted-main
-   ```
+```
+
 2. **Set Up a Virtual Environment (Optional but recommended)**: Create and activate a virtual environment to manage project dependencies.
   
-  ```bash
+```bash
 python -m venv venv
 # Activate the virtual environment
 source venv/bin/activate  # On Windows: venv\\Scripts\\activate
 ```
+
 3. **Install Dependencies:** Use the `requirements.txt` file to install the necessary Python packages:
-   
-   ```bash
+
+```bash
    pip install -r requirements.txt
-   ```
+```
+
 4. **Run the Application:** Start the Streamlit application by running the command below:
    
 ```bash
@@ -95,3 +98,8 @@ The project uses the following Python libraries:
 3. `Pillow`
 4. `regex`
 These dependencies are listed in the `requirements.txt` file and can be installed using `pip install -r requirements.txt`.
+
+
+## Screen Shots:
+![1](https://github.com/user-attachments/assets/9c3a5779-769f-4367-9ea9-e501a25b89b8)
+![2](https://github.com/user-attachments/assets/e83695e4-1ba8-48e9-b820-add607abdbf3)
